@@ -1,7 +1,7 @@
 url: https://chat.ideias.casa/android-icon-192x192.png
-status: up
-code: 200
-responseTime: 53
-lastUpdated: 2025-10-17T10:39:04.322Z
+status: down
+code: 502
+responseTime: 1018
+lastUpdated: 2025-10-17T15:25:45.968Z
 startTime: 2025-08-13T22:16:11.735Z
 generator: Upptime <https://github.com/upptime/upptime>
