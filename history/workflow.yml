@@ -1,7 +1,7 @@
 url: https://work.ideias.casa/healthz/readiness
-status: down
-code: 500
-responseTime: 307
-lastUpdated: 2025-11-18T11:45:49.208Z
+status: up
+code: 200
+responseTime: 758
+lastUpdated: 2025-11-18T12:58:22.372Z
 startTime: 2025-08-13T22:16:08.930Z
 generator: Upptime <https://github.com/upptime/upptime>
