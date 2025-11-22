@@ -58,17 +58,17 @@
     "url": "https://chat.ideias.casa/android-icon-192x192.png",
     "icon": "https://chat.ideias.casa/android-icon-192x192.png",
     "slug": "chatwoot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 472,
-    "timeWeek": 422,
-    "timeMonth": 370,
-    "timeYear": 395,
+    "time": 396,
+    "timeDay": 477,
+    "timeWeek": 427,
+    "timeMonth": 374,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   }
 ]
