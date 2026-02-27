@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 774,
     "timeDay": 598,
-    "timeWeek": 833,
+    "timeWeek": 870,
     "timeMonth": 812,
     "timeYear": 774,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1308,
     "timeDay": 605,
-    "timeWeek": 659,
+    "timeWeek": 687,
     "timeMonth": 1569,
     "timeYear": 1308,
     "dailyMinutesDown": {}
@@ -58,17 +58,17 @@
     "url": "https://chat.ideias.casa/android-icon-192x192.png",
     "icon": "https://chat.ideias.casa/android-icon-192x192.png",
     "slug": "chatwoot",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 458,
-    "timeWeek": 474,
-    "timeMonth": 431,
-    "timeYear": 400,
+    "time": 399,
+    "timeDay": 433,
+    "timeWeek": 469,
+    "timeMonth": 428,
+    "timeYear": 399,
     "dailyMinutesDown": {}
   }
 ]
