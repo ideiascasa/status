@@ -4,17 +4,17 @@
     "url": "https://work.ideias.casa/healthz/readiness",
     "icon": "https://work.ideias.casa/favicon.ico",
     "slug": "workflow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 787,
-    "timeDay": 674,
-    "timeWeek": 781,
-    "timeMonth": 722,
-    "timeYear": 787,
+    "time": 788,
+    "timeDay": 766,
+    "timeWeek": 791,
+    "timeMonth": 727,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 421,
     "timeDay": 490,
     "timeWeek": 439,
-    "timeMonth": 454,
+    "timeMonth": 455,
     "timeYear": 421,
     "dailyMinutesDown": {}
   }
